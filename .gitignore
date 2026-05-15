@@ -1,3 +1,9 @@
 README.md
 git.txt
 node_modules
+
+
+git add .
+git commit -m "Added code"
+git push
+
