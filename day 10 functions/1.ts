@@ -5,6 +5,8 @@ function makechai(type : string, cups : number) {
     
 } 
 
+
+
 makechai("masala", 34)
 
 
@@ -23,6 +25,8 @@ function makeOrder(order : string) {
         return order;
     }
 }
+
+
 
 
 function logChai(): void {
